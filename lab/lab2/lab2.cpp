@@ -8,7 +8,7 @@ void FibArray(int array[], int SIZE);
 
 int main()
 {
-    const size = 20;
+    const int size = 20;
     int alpha[size] = { 1, 2, 3 };
     int i;
     for(i=3; i < size; i++) {
